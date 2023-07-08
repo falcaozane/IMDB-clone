@@ -33,7 +33,14 @@ export default function About() {
         looking for ways to improve and enhance the user experience on our
         website. Happy browsing!
         </p>
+
+        <div className="max-w-6xl">
+          <span className="my-4 text-center">
+              <h3 className="font-bold">Made By <a className="text-amber-500" href="https://falcaozane.netlify.app/">@falcaozane</a></h3>
+          </span>
+        </div>
     </div>
+    
   )
 }
 
